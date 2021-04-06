@@ -17,7 +17,7 @@ I have a few doing different things, they all report on schedule.
 
 #java, so Feature Rich and if you can compute, so rotations should be simple for everyone, yeah?
 
-#https://tecreations.ca/java/downloads/release/tecreations.jar heres some sample code. try it out, let me know what you think. will try to get videos up this year.
+#https://tecreations.ca/java/downloads/release/tecreations.jar heres some sample code. try it out, let me know what you think. will try to get tutorials up this year.
 
 
 #so a, #tim.devries@yahoo.ca
