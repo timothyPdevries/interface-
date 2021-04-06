@@ -1,4 +1,4 @@
 # interface-J
-#Because You List.ArrayList\<Point\>,
+#Because You List\<Point\>,
 #Because you Server<Api.Tim>
 #EverythingElse
