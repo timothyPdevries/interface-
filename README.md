@@ -2,7 +2,7 @@
 
 Because basically, you interface into the data and the software,  at different, yet specified, rates.
 
-#SomeAreBetterAtITThanOthers
+#SomeAreBetterAt<b>IT</b>ThanOthers
 
 
 #Because You List\<Point\>,
