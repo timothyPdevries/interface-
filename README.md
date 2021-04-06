@@ -11,4 +11,4 @@ I have a few doing different things, they all report on schedule.
 
 #java, so Feature Rich and if you can compute, so rotations should be simple for everyone, yeah?
 
-#tim
+#tecreations.ca heres some sample code. try it out, let me know what you think. will try to get videos up this year.
